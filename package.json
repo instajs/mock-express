@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/masotime/mock-express"
+    "url": "https://github.com/instajs/mock-express"
   },
   "scripts": {
     "test": "mocha",
